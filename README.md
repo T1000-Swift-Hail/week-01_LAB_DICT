@@ -2,7 +2,7 @@
 
 ### Mohammed & Faris are friends. They visited the following cities in Saudi Arabia:
 - Mohammed : Hail: 3 times, Medina: 4 times, Tabuk: 1 time.
-- Faris : Riyadh: 5 times, Dammam: 2 times, Jizan: 3 times, Qasim: 10 times.
+- Faris : Hail: 3 times, Medina: 4 times, Tabuk: 1 time..
 
 
 ## Using Dictionaries , do the following :
